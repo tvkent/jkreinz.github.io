@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julia Kreiner</title>
+    <description>Personal site for Tyler Kent</description>
+    <link>jkreinz.github.io/</link>
+    <atom:link href="jkreinz.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 19 Jan 2016 19:28:35 -0500</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 19:28:35 -0500</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+  </channel>
+</rss>
