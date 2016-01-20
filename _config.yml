@@ -1,0 +1,15 @@
+# Site settings
+title: Julia Kreiner
+header-img: img/jk1.jpg
+description: "Personal site for Tyler Kent"
+baseurl: ""
+url: "jkreinz.github.io"
+twitter_username: jmkreinz
+github_username:  jkreinz
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
